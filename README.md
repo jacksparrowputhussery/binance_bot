@@ -45,8 +45,8 @@ trading_bot/
 ### 2. Clone and Install Dependencies
 
 ```bash
-git clone <your-repo-url>
-cd trading_bot
+git clone https://github.com/jacksparrowputhussery/binance_bot.git
+cd binance_bot
 pip install -r requirements.txt
 ```
 
