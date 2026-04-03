@@ -1,11 +1,11 @@
-# --- Custom (important for your project) ---
+
 .env
 *.log
 venv/
 __pycache__/
 *.pyc
 
-# --- Python standard gitignore ---
+
 
 __pycache__/
 *.py[codz]
