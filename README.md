@@ -127,7 +127,7 @@ python -m bot.cli \
   --side SELL \
   --order-type LIMIT \
   --quantity 0.002 \
-  --price 50000
+  --price 70000
 ```
 
 ```
@@ -138,7 +138,7 @@ python -m bot.cli \
   Side       : SELL
   Order Type : LIMIT
   Quantity   : 0.002
-  Price      : 50000
+  Price      : 70000
 ==================================================
 
   ORDER RESPONSE
