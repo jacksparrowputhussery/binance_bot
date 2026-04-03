@@ -96,7 +96,7 @@ python -m bot.cli \
   --symbol BTCUSDT \
   --side BUY \
   --order-type MARKET \
-  --quantity 0.001
+  --quantity 0.002
 ```
 
 ```
@@ -106,14 +106,14 @@ python -m bot.cli \
   Symbol     : BTCUSDT
   Side       : BUY
   Order Type : MARKET
-  Quantity   : 0.001
+  Quantity   : 0.002
 ==================================================
 
   ORDER RESPONSE
 ==================================================
   Order ID     : 123456789
   Status       : FILLED
-  Executed Qty : 0.001
+  Executed Qty : 0.002
   Avg Price    : 43250.50
 ==================================================
   Order placed successfully.
@@ -126,7 +126,7 @@ python -m bot.cli \
   --symbol BTCUSDT \
   --side SELL \
   --order-type LIMIT \
-  --quantity 0.001 \
+  --quantity 0.002 \
   --price 50000
 ```
 
@@ -137,7 +137,7 @@ python -m bot.cli \
   Symbol     : BTCUSDT
   Side       : SELL
   Order Type : LIMIT
-  Quantity   : 0.001
+  Quantity   : 0.002
   Price      : 50000
 ==================================================
 
